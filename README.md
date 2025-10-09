@@ -1,11 +1,7 @@
 <h1 align="center">
   Hi There. I Am Arkam Fahri
-
 </h1>
 
-<div align="canter">
-  <img src="pixelbend.png" alt="PixelBend" style="width: 1000px; height: auto;"/>
-</div>
 
 # 💫 About
 🤝 I’m looking for a place to fit in<br>
