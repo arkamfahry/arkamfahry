@@ -4,6 +4,12 @@
 
 <br/>
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/5e36aa15-4bf2-4428-9a51-a2fd2474a522" alt="Arkam Fahri" style="width: 400px; height: auto;">
+</div>
+
+<br/>
+
 # 💫 About
 🤝 I’m looking for a place to fit in<br>
 🌱 I’m currently learning Typescript, Svelte, React, Flutter, Dart, Go, Rust, Elixir and Python<br>
