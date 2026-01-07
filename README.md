@@ -13,8 +13,3 @@
 
 # 🃏 Dev Card
 <a href="https://app.daily.dev/arkamfahry"><img src="https://api.daily.dev/devcards/v2/92Tc0MIH5UarnguOUFTDJ.png?type=default&r=8w3" width="356" alt="Arkam Fahri's Dev Card"/></a>
-
-# 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=arkamfahry&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="Arkam Fahri's Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkamfahry&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="Arkam Fahri's Top Languages"/>
-
